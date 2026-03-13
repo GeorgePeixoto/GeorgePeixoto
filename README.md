@@ -27,6 +27,13 @@ Sou um entusiasta de tecnologia focado em criar experiências digitais funcionai
   </a>
 </div>
 ---
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake.svg">
+    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake.svg">
+  </picture>
+</div>
 
 ### ⚡ Além do Código:
 - 🎮 Nas horas vagas, você me encontra no **Counter-Strike 2**
