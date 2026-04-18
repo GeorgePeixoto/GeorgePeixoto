@@ -2,7 +2,7 @@
 
 # Olá, eu sou o George Peixoto 👋
 
-### Desenvolvedor Front-End | HTML · CSS · JavaScript · Java
+### 🚀 Desenvolvedor Full Stack em Progresso
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
 
