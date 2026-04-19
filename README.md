@@ -12,7 +12,7 @@
 
 ## 🙋 Sobre Mim
 
-- 🌍 Moro em **Crato - CE, Brasil**
+- 🌍 Moro em **Juazeiro do Norte - CE, Brasil**
 - 🎓 Estudante de tecnologia, sempre buscando evoluir
 - 💡 Apaixonado por criar interfaces bonitas e funcionais
 - 🚀 Atualmente focado em projetos de Front-End com HTML, CSS e JavaScript
