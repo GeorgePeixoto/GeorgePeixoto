@@ -9,7 +9,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=georgepeixoto&mode=light&v=2026-11-11" />
-  <img src="https://www.gitskins.com/api/section/studio-about?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="About George Peixoto: Desenvolvedor Full Stack em formação| Apaixonado por tecnologia e design | HTML, CSS, JS &amp;amp; Java" />
+  <img src="https://www.gitskins.com/api/section/studio-about?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="About George Peixoto: Backend Developer | Java • Spring Boot • PostgreSQL • REST APIs | Information Systems Student" />
 </picture>
 
 <picture>
