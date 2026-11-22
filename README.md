@@ -1,98 +1,33 @@
-<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-room?username=georgepeixoto&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-room?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="George Peixoto's pixel studio" />
+</picture>
 
-# Olá, eu sou o George Peixoto 👋
+<sub>The window shows the weather in Crato-CE right now. The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
 
-### 🚀 Desenvolvedor Full Stack em Progresso
+<a href="https://github.com/georgepeixoto">GitHub</a>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00B4D8&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Apaixonado+por+tecnologia;Sempre+aprendendo+algo+novo)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-about?username=georgepeixoto&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-about?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="About George Peixoto: Desenvolvedor Full Stack em formação| Apaixonado por tecnologia e design | HTML, CSS, JS &amp;amp; Java" />
+</picture>
 
-</div>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-hud?username=georgepeixoto&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-hud?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="Commits, pull requests, stars and best streak" />
+</picture>
 
----
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-header?username=georgepeixoto&title=%3E+Projects&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/pixel-header?username=georgepeixoto&title=%3E+Projects&mode=dark&v=2026-11-11" width="100%" alt="Projects" />
+</picture>
 
-## 🙋 Sobre Mim
+<a href="https://github.com/GeorgePeixoto/Tesla-Project"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=0&r=Tesla-Project&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=0&r=Tesla-Project&mode=dark&v=2026-11-11" width="49%" alt="Tesla-Project: " /></picture></a> <a href="https://github.com/GeorgePeixoto/georgepeixotoo"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=1&r=georgepeixotoo&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=1&r=georgepeixotoo&mode=dark&v=2026-11-11" width="49%" alt="georgepeixotoo: " /></picture></a>
+<a href="https://github.com/GeorgePeixoto/CeS"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=2&r=CeS&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=2&r=CeS&mode=dark&v=2026-11-11" width="49%" alt="CeS: " /></picture></a> <a href="https://github.com/GeorgePeixoto/gestao-indicadores"><picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=3&r=gestao-indicadores&mode=light&v=2026-11-11" /><img src="https://www.gitskins.com/api/section/pixel-card?username=georgepeixoto&i=3&r=gestao-indicadores&mode=dark&v=2026-11-11" width="49%" alt="gestao-indicadores: Sistema de Gestão e Indicadores - Projeto Integrador UniFAP" /></picture></a>
 
-- 🌍 Moro em **Juazeiro do Norte - CE, Brasil**
-- 🎓 Estudante de tecnologia, sempre buscando evoluir
-- 💡 Apaixonado por criar interfaces bonitas e funcionais
-- 🚀 Atualmente focado em projetos de Front-End com HTML, CSS e JavaScript
-- 📫 Contato: **georgeppfilho@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/studio-log?username=georgepeixoto&mode=light&v=2026-11-11" />
+  <img src="https://www.gitskins.com/api/section/studio-log?username=georgepeixoto&mode=dark&v=2026-11-11" width="100%" alt="The last 26 weeks of contributions, the streak and the year" />
+</picture>
 
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</div>
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-<a href="https://github.com/GeorgePeixoto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GeorgePeixoto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeorgePeixoto&layout=compact&langs_count=7&theme=tokyonight"/>
-</a>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=GeorgePeixoto&theme=tokyonight&hide_border=false&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🐍 Contribuições
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake.svg">
-    <img alt="GitHub Snake" src="https://raw.githubusercontent.com/GeorgePeixoto/GeorgePeixoto/output/github-snake.svg">
-  </picture>
-</div>
-
----
-
-## 📌 Projetos em Destaque
-
-| Projeto | Descrição | Tecnologias |
-|--------|-----------|------------|
-| [linktree-george](https://github.com/GeorgePeixoto/linktree-george) | Página de links pessoais estilo Linktree | HTML, CSS |
-| [ProjectIA](https://github.com/GeorgePeixoto/ProjectIA) | Projeto com integração de Inteligência Artificial | JavaScript |
-| [codefap](https://github.com/GeorgePeixoto/codefap) | Projeto colaborativo de estudo | HTML, CSS, JS |
-
----
-
-## 📬 Onde Me Encontrar
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:georgeppfilho@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GeorgePeixoto)
-
-</div>
-
----
-
-<div align="center">
-
-![Visitor Count](https://komarev.com/ghpvc/?username=GeorgePeixoto&color=00b4d8&style=flat-square&label=Visitas+ao+perfil)
-
-*"A melhor forma de aprender é fazendo."*
-
-</div>
+<sub>Pixel Studio · made with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
